@@ -1,0 +1,40 @@
+#brand {
+    color: #8122CB;
+    padding: 50px;
+    font-weight: bolder;
+    
+}
+
+#profHeader {
+    border: 2px solid darkgrey;
+    background-color: white;
+}
+
+/* .nav{
+    display: flex;
+    justify-content: center;
+    
+} */
+
+
+
+.nav-item a {
+    text-decoration: none;
+    color:#8122CB;
+    font-size: larger;
+    font-weight: bolder;
+   
+}
+
+.nav-item a:hover {
+    border-bottom:4px solid #8122CB  ;
+    
+}
+
+input {
+    border: 2px solid red;
+}
+
+/* #dataDiv {
+    border: 1px solid #8122CB;
+} */

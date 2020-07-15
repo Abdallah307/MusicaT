@@ -1,0 +1,34 @@
+#mainContainer {
+    height: 100%;
+    background-color: black;
+    color: white;
+}
+
+#profileHeader {
+    height: 33%;
+    background-color: darkcyan;
+}
+
+ul {
+    list-style-type: none;
+    
+    
+}
+.btn {
+    color: white;
+    
+    
+}
+.btn:hover{
+    color: white;
+}
+
+.songlike {
+    border-radius: 20px;
+}
+
+
+
+
+
+
