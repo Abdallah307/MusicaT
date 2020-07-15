@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1fe20b84.chunk.css",
+    "main.js": "/static/js/main.a7b6a85e.chunk.js",
+    "main.js.map": "/static/js/main.a7b6a85e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.184d35f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.184d35f6.js.map",
+    "static/js/2.1ab5078c.chunk.js": "/static/js/2.1ab5078c.chunk.js",
+    "static/js/2.1ab5078c.chunk.js.map": "/static/js/2.1ab5078c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0e65aec0833d61c34d570ed1c35d1e63.js": "/precache-manifest.0e65aec0833d61c34d570ed1c35d1e63.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1fe20b84.chunk.css.map": "/static/css/main.1fe20b84.chunk.css.map",
+    "static/js/2.1ab5078c.chunk.js.LICENSE.txt": "/static/js/2.1ab5078c.chunk.js.LICENSE.txt",
+    "static/media/SingerPage.css": "/static/media/Singer.f14fb5e3.jpg",
+    "static/media/abdallah.jpg": "/static/media/abdallah.a991c213.jpg",
+    "static/media/HomePage.css": "/static/media/background1.9172e17c.svg",
+    "static/media/undraw_media_player_ylg8.svg": "/static/media/undraw_media_player_ylg8.815c0246.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.184d35f6.js",
+    "static/js/2.1ab5078c.chunk.js",
+    "static/css/main.1fe20b84.chunk.css",
+    "static/js/main.a7b6a85e.chunk.js"
+  ]
+}
